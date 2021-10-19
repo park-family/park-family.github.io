@@ -5,11 +5,10 @@ subtitle: 우리가족 연락처  :)
 ---
 
 # 부모님
-### 박승연 김순호
+## 박승연 김순호
 
-<!--- 
-| ![image](https://user-images.githubusercontent.com/32427749/127579757-95fe1d97-7820-4485-acfe-42483abd727e.png) | 김영현, Younghyun Kim, Ph.D. |
---->
+![image](https://user-images.githubusercontent.com/92776647/137869988-c52aaccf-89a7-45c7-b75b-7523f7028ed9.png)
+
 
 ---
 # 6남매
@@ -34,6 +33,8 @@ subtitle: 우리가족 연락처  :)
 
 
 # 가족 
+
+![image](https://user-images.githubusercontent.com/92776647/137870497-63e172ba-fe76-45a1-9e65-938483723a84.png)
 
 ### 김소이
 #### 핸드폰 번호 : 010-6364-8993

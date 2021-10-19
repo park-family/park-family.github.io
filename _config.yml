@@ -17,7 +17,7 @@ navbar-links:
 #  About Me: "aboutme"
 #  Research: "research"
   구성원: "team"
-#  Projects: "projects"
+  사진첩: "projects"
   연례행사: "publication"
 #  Contact: "contact"
 #  Link: "link"
