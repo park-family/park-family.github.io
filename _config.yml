@@ -15,12 +15,12 @@ author: 박찬혁
 navbar-links:
 #  HOME: "https://yh2424.github.io"
 #  About Me: "aboutme"
-  Research: "research"
+#  Research: "research"
   구성원: "team"
 #  Projects: "projects"
   연례행사: "publication"
-  Contact: "contact"
-  Link: "link"
+#  Contact: "contact"
+#  Link: "link"
 
 # --- Logo --- #
 
