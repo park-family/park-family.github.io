@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 6남매
-subtitle: Our current team members  :)
+subtitle: 우리가족 연락처  :)
 ---
 
 # 부모님
@@ -29,6 +29,8 @@ subtitle: Our current team members  :)
 ### 박
 #### email : phone : 
 
-### 박희서
+### 박서
 #### email : phone : 
 
+
+# 가족 
